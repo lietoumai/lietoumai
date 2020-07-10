@@ -1,5 +1,5 @@
 ### 首先
-- 这个人几乎没有留下什么代码，除了之前学Python的时候留下过一些，所以诸位万万不可被这一屏的绿给欺骗了
+- 这个人几乎没有留下什么代码，除了之前学Python的时候留下过一些，所以诸位万万不可被这一屏的绿给迷惑了
 ### 然后
 - 主要维护的项目是[Awesome-offer](https://github.com/lietoumai/Awesome-offer)
 - 平时就做一些[读书笔记](https://github.com/lietoumai/Reflection)
