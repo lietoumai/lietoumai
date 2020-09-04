@@ -8,4 +8,4 @@
 - 您可以在[这里](http://guwenmai.sxl.cn/)了解更多
 ### 最后的最后
 - 目前在做一个程序员职业生涯变迁的采访，目前已做3期，如果您觉得您或者周围朋友的故事值得分享，也可以联系我
-- 往期采访：---->[这里](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1496616199663730689&__biz=MzA4MjU3NDQ1MA==#wechat_redirect）
+- 往期采访：---->[这里](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1496616199663730689&__biz=MzA4MjU3NDQ1MA==#wechat_redirect)
