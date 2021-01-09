@@ -2,9 +2,9 @@
 - 这个人几乎没有留下什么代码，除了之前学Python的时候留下过一些
 ### 然后
 - 主要维护的项目是[Awesome-offer](https://github.com/lietoumai/Awesome-offer)
-- 平时就做一些[读书笔记](https://github.com/lietoumai/Reflection)
+- 平时就[随便写写](https://github.com/lietoumai/Reflection)
 ### 最后
-- 目前全职在做面向工程师的：职业发展咨询、决策技能提升、压力倾述等方面的服务
+- 目前全职在做面向在职人员的：职业发展咨询、决策技能提升、压力倾述等方面的服务
 - 您也可以理解为：在疯狂输出负能量的同时，逐渐找到问题的解决之道
 - [这里](http://guwenmai.sxl.cn/)，了解更多
 ### 最后的最后
