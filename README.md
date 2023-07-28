@@ -4,9 +4,8 @@
 - 主要维护的项目是[Awesome-offer](https://github.com/lietoumai/Awesome-offer)
 ### 最近
 - 入职了一家手机公司
-- 主要负责一些安卓框架、内核和软件项目经理方面的岗位
-- 欢迎感兴趣的同学来找我咨询
-- 所有岗位可以点击[这里](https://transsion.zhiye.com/?lang=zh&code=about.employees.join)
+- 负责一些海外业务
+- 目前已不负责技术岗位招聘
 ### 最后的最后
 - 有在做一个程序员职业生涯变迁的采访(已做3期)，如果您觉得您,或者您周围朋友的故事值得分享，欢迎联系我
 - 往期采访：---->[这里](https://mp.weixin.qq.com/mp/appmsgalbum?action=getalbum&album_id=1496616199663730689&__biz=MzA4MjU3NDQ1MA==#wechat_redirect)
